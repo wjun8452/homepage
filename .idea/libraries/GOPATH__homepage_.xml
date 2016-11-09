@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;homepage&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../junwang" />
+      <root url="file://$PROJECT_DIR$/../../../stringutil" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../hello3" />
+      <root url="file://$PROJECT_DIR$/../../../revel_first_app" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../restful" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../junwang" />
+      <root url="file://$PROJECT_DIR$/../../../stringutil" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../hello3" />
+      <root url="file://$PROJECT_DIR$/../../../revel_first_app" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../restful" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
